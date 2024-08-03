@@ -25,7 +25,7 @@
   "scripts": {
     "build": "tsup",
     "publint": "publint",
-    "publish": "pnpm run build && pnpm run publint && changeset publish"
+    "release": "pnpm run build && pnpm run publint && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.7",
