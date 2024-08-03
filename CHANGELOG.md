@@ -1,5 +1,11 @@
 # changeset-testtest
 
+## 0.0.5
+
+### Patch Changes
+
+- b8a4a25: test
+
 ## 0.0.4
 
 ### Patch Changes
