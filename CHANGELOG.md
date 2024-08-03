@@ -1,5 +1,11 @@
 # changeset-testtest
 
+## 0.0.3
+
+### Patch Changes
+
+- 5061f48: test
+
 ## 0.0.2
 
 ### Patch Changes
