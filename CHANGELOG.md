@@ -1,5 +1,11 @@
 # changeset-testtest
 
+## 0.0.8
+
+### Patch Changes
+
+- 8a5e74e: pnpm run publish to pnpm run release
+
 ## 0.0.7
 
 ### Patch Changes
