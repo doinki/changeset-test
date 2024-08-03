@@ -1,5 +1,11 @@
 # changeset-testtest
 
+## 0.0.4
+
+### Patch Changes
+
+- fe0669d: version
+
 ## 0.0.3
 
 ### Patch Changes
