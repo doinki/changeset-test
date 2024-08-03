@@ -1,5 +1,11 @@
 # changeset-testtest
 
+## 0.0.6
+
+### Patch Changes
+
+- cdad96f: test
+
 ## 0.0.5
 
 ### Patch Changes
